@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "2.1.0.0",
+        "changelog": "Stream output in real-time (line by line via SSE)",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v2.1.0/web-terminal-2.1.0.0.zip",
+        "checksum": "b1bc9da3c945c624a5b256b4fc19db1c",
+        "timestamp": "2026-03-10T00:00:00Z"
+      },
+      {
         "version": "2.0.1.0",
         "changelog": "Fix JSON property casing for command output",
         "targetAbi": "10.11.0.0",
