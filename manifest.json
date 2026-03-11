@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "2.2.1.0",
+        "changelog": "Increase command timeout from 30s to 5 minutes",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v2.2.1/web-terminal-2.2.1.0.zip",
+        "checksum": "19b0ac8930c87146d746d2e282cecb20",
+        "timestamp": "2026-03-10T00:00:00Z"
+      },
+      {
         "version": "2.2.0.0",
         "changelog": "Add Ctrl+C to cancel running commands",
         "targetAbi": "10.11.0.0",
