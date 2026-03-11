@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "2.2.0.0",
+        "changelog": "Add Ctrl+C to cancel running commands",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v2.2.0/web-terminal-2.2.0.0.zip",
+        "checksum": "f8de75252d505fafae9aedae475719d8",
+        "timestamp": "2026-03-10T00:00:00Z"
+      },
+      {
         "version": "2.1.0.0",
         "changelog": "Stream output in real-time (line by line via SSE)",
         "targetAbi": "10.11.0.0",
