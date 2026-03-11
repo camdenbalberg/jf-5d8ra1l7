@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "2.0.1.0",
+        "changelog": "Fix JSON property casing for command output",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v2.0.1/web-terminal-2.0.1.0.zip",
+        "checksum": "0fc72e1933720a77cccd8119af850635",
+        "timestamp": "2026-03-10T00:00:00Z"
+      },
+      {
         "version": "2.0.0.0",
         "changelog": "Add web terminal with command execution API",
         "targetAbi": "10.11.0.0",
