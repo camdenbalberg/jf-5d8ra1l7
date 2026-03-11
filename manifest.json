@@ -14,46 +14,6 @@
         "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v2.2.1/web-terminal-2.2.1.0.zip",
         "checksum": "19b0ac8930c87146d746d2e282cecb20",
         "timestamp": "2026-03-10T00:00:00Z"
-      },
-      {
-        "version": "2.2.0.0",
-        "changelog": "Add Ctrl+C to cancel running commands",
-        "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v2.2.0/web-terminal-2.2.0.0.zip",
-        "checksum": "f8de75252d505fafae9aedae475719d8",
-        "timestamp": "2026-03-10T00:00:00Z"
-      },
-      {
-        "version": "2.1.0.0",
-        "changelog": "Stream output in real-time (line by line via SSE)",
-        "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v2.1.0/web-terminal-2.1.0.0.zip",
-        "checksum": "b1bc9da3c945c624a5b256b4fc19db1c",
-        "timestamp": "2026-03-10T00:00:00Z"
-      },
-      {
-        "version": "2.0.1.0",
-        "changelog": "Fix JSON property casing for command output",
-        "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v2.0.1/web-terminal-2.0.1.0.zip",
-        "checksum": "0fc72e1933720a77cccd8119af850635",
-        "timestamp": "2026-03-10T00:00:00Z"
-      },
-      {
-        "version": "2.0.0.0",
-        "changelog": "Add web terminal with command execution API",
-        "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v2.0.0/web-terminal-2.0.0.0.zip",
-        "checksum": "071caae7dbc000ccfe960fbc78d95739",
-        "timestamp": "2026-03-10T00:00:00Z"
-      },
-      {
-        "version": "1.0.0.0",
-        "changelog": "Initial release",
-        "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/camdenbalberg/jf-5d8ra1l7/releases/download/v1.0.0/hello-world-1.0.0.0.zip",
-        "checksum": "56abc3e7107efb806f32af13d6259369",
-        "timestamp": "2026-03-10T00:00:00Z"
       }
     ]
   }
